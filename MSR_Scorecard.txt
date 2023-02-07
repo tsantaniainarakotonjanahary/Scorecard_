@@ -2,7 +2,7 @@
   "indicatorGroup": [
     {
       "code": "G1",
-      "name": "Dépistage CSB2",
+      "name": "Dépistage CSB23",
       "titre": "Taux de cas téstés positifs par RDT (%)"
     },
     {
