@@ -1,0 +1,334 @@
+{
+  "indicatorGroup": [
+    {
+      "code": "G1",
+      "name": "Dépistage CSB",
+      "titre": "Taux de cas téstés positifs par RDT (%)"
+    },
+    {
+      "code": "G2",
+      "name": "Référénce CSB",
+      "titre": "Proportion de cas paludisme grave référé (%)"
+    },
+    {
+      "code": "G3",
+      "name": "Traitement CSB",
+      "titre": "Proportion de cas de paludisme simple confirmés traités (%)"
+    },
+    {
+      "code": "G4",
+      "name": "Prévention CSB",
+      "titre": "Proportion de patients ayant reçu des services de prévention (%)"
+    },
+    {
+      "code": "G5",
+      "name": "Gestion des intrants CSB",
+      "titre": "Taux de disponibilité de produits et médicaments paludisme (%)"
+    },
+    {
+      "code": "G6",
+      "name": "Décès dus au paludisme CHRD",
+      "titre": "Proportion de cas de décès pour paludisme (%)"
+    },
+    {
+      "code": "G7",
+      "name": "Suivi CSB ",
+      "titre": "Suivi des prestations (Nombre)"
+    }
+  ],
+  "indicators": [
+    {
+      "achieved": "43",
+      "dhisID": "CYBvorjaF3c",
+      "dhisName": "CSB PALU Taux de positivité du paludisme par rapport aux tests RDT",
+      "formula": " ",
+      "groupCode": "G1",
+      "name": "Total",
+      "notInTrack": "30",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "30",
+      "dhisID": "HpKTyXNeVWW",
+      "dhisName": "CSB PALU Taux de positivité du paludisme par rapport aux tests RDT (chez les < 5 ans)",
+      "formula": "",
+      "groupCode": "G1",
+      "name": "<5 ans",
+      "notInTrack": "39",
+      "target": "0",
+      "type": "indicator"
+    },
+    {
+      "achieved": "30",
+      "dhisID": "fdIdtHWGrOe",
+      "dhisName": "CSB PALU Taux de positivité du paludisme par rapport aux tests RDT  (6-13 ans)",
+      "formula": "",
+      "groupCode": "G1",
+      "name": "6-13 ans",
+      "notInTrack": "39",
+      "target": "0",
+      "type": "indicator"
+    },
+    {
+      "achieved": "30",
+      "dhisID": "Jr0c0vsG8kO",
+      "dhisName": "CSB PALU Taux de positivité du paludisme par rapport aux tests RDT  (14+)",
+      "formula": "",
+      "groupCode": "G1",
+      "name": "14+",
+      "notInTrack": "39",
+      "target": "0",
+      "type": "indicator"
+    },
+    {
+      "achieved": "94",
+      "dhisID": "bHdGClebARP",
+      "dhisName": "CSB PALU Proportion de cas de paludisme grave vus en consultations externes référé ",
+      "formula": "",
+      "groupCode": "G2",
+      "name": "CE référée",
+      "notInTrack": "80",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "94",
+      "dhisID": "VxJF9zNlxDT",
+      "dhisName": "CSB Palu Proportion de cas de paludisme  simple confirmés traité par ACT ",
+      "formula": " ",
+      "groupCode": "G3",
+      "name": "Traite par ACT",
+      "notInTrack": "80",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "94",
+      "dhisID": "kcrink1PKc7",
+      "dhisName": "CSB Palu Proportion de cas de paludisme  simple confirmés chez les enfants <5 ans traité par ACT ",
+      "formula": " ",
+      "groupCode": "G3",
+      "name": "< 5 ans",
+      "notInTrack": "80",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "94",
+      "dhisID": "b4R07A4SU4y",
+      "dhisName": "CSB Palu Proportion de cas de paludisme  simple confirmés chez les enfants  6 - 13 ans traité par ACT ",
+      "formula": " ",
+      "groupCode": "G3",
+      "name": "6 - 13 ans",
+      "notInTrack": "80",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "94",
+      "dhisID": "oxeFyDW46EQ",
+      "dhisName": "CSB Palu Proportion de cas de paludisme  simple confirmés chez les enfants 14+ traité par ACT ",
+      "formula": " ",
+      "groupCode": "G3",
+      "name": "14+ ans",
+      "notInTrack": "80",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "94",
+      "dhisID": "ciJsCzscv8n",
+      "dhisName": "CSB PALU Proportion de patients ayant reçu un traitement de pré-référence pour paludisme grave",
+      "groupCode": "G4",
+      "name": "pre-reference palu grave",
+      "notInTrack": "80",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "39",
+      "dhisID": "BNQ7j1HDgSm",
+      "dhisName": "CSB PALU Proportion de Femmes Enceintes ayant reçu TPI3 et plus",
+      "groupCode": "G4",
+      "name": "TPI3 et +",
+      "notInTrack": "10",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "98",
+      "dhisID": "nva1DfOQ16Y",
+      "dhisName": "CSB PALU Proportion d'enfants < 5 ans  ayant recu un MID",
+      "groupCode": "G4",
+      "name": " < 5 ans",
+      "notInTrack": "50",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "98",
+      "dhisID": "zwpg2p0rg9L",
+      "dhisName": "CSB PEV Proportion de MIDs distribuées aux enfants de moins de 1an complètement vaccinés",
+      "groupCode": "G4",
+      "name": "Vaccines ayant eu MID",
+      "notInTrack": "50",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "98",
+      "dhisID": "PiTE2VkWRCH",
+      "dhisName": "CSB PALU Proportion de FE vues en 1ere CPN ayant eu MID",
+      "groupCode": "G4",
+      "name": "CPN1 ayant eu MID",
+      "notInTrack": "50",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "98",
+      "dhisID": "ye2hHO822d5",
+      "dhisName": "CSB Intrant Gratuit PALU Taux de Disponibilite RDT",
+      "groupCode": "G5",
+      "name": "Disponibilite RDT",
+      "notInTrack": "65",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "98",
+      "dhisID": "cs9rtOwAZ8F",
+      "dhisName": "CSB Intrant Gratuit PALU Taux de Disponibilite en Sulfadoxine Pyrimethamine FE",
+      "groupCode": "G5",
+      "name": "Disponibilite en SP",
+      "notInTrack": "65",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "98",
+      "dhisID": "rInBKsE1DdZ",
+      "dhisName": "CSB Intrant Gratuit PALU Taux de Disponibilite MID routine ",
+      "groupCode": "G5",
+      "name": "MID routine",
+      "notInTrack": "65",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "98",
+      "dhisID": "ak34TBRBozQ",
+      "dhisName": "CSB Intrant Gratuit PALU Taux de Disponibilite ACT 14ans et plus",
+      "groupCode": "G5",
+      "name": "ACT 14ans et plus",
+      "notInTrack": "65",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "98",
+      "dhisID": "CsaLjbj2ykc",
+      "dhisName": "CSB Intrant Gratuit PALU Taux de Disponibilite ACT 1-5ans ",
+      "groupCode": "G5",
+      "name": "ACT 1-5ans",
+      "notInTrack": "65",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "98",
+      "dhisID": "TUUQarUxR64",
+      "dhisName": "CSB Intrant Gratuit PALU Taux de Disponibilite ACT 2-11m  ",
+      "groupCode": "G5",
+      "name": "ACT 2-11 mois ",
+      "notInTrack": "65",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "98",
+      "dhisID": "d7zqV9Y8BNl",
+      "dhisName": "CSB Intrant Gratuit PALU Taux de Disponibilite en ACT 6-13ans ",
+      "groupCode": "G5",
+      "name": "ACT 6-13 ans ",
+      "notInTrack": "65",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "0.01",
+      "dhisID": "GBody1oS7q4",
+      "dhisName": "CHRD Proportion décès de paludisme en milieu hospitalier",
+      "groupCode": "G6",
+      "name": "Deces TOTAL ",
+      "notInTrack": "5",
+      "target": "0",
+      "type": "indicator"
+    },
+    {
+      "achieved": "2",
+      "dhisID": "STm0ZR3Uyqh",
+      "dhisName": "CHRD Proportion décès de paludisme en milieu hospitalier -5ans",
+      "groupCode": "G6",
+      "name": "Deces <5 ans ",
+      "notInTrack": "5",
+      "target": "0",
+      "type": "indicator"
+    },
+    {
+      "achieved": "2",
+      "dhisID": "iGhivwG9ESA",
+      "dhisName": "CHRD Proportion de décès du Paludisme chez  les 14+ ans",
+      "groupCode": "G6",
+      "name": "Deces 14+ ans",
+      "notInTrack": "5",
+      "target": "0",
+      "type": "indicator"
+    },
+    {
+      "achieved": "2",
+      "dhisID": "ZMkOGJ5zkM1",
+      "dhisName": "CHRD Proportion de décès du Paludisme chez  les Femmes Enceintes",
+      "groupCode": "G6",
+      "name": "Deceseces FE",
+      "notInTrack": "5",
+      "target": "0",
+      "type": "indicator"
+    },
+    {
+      "achieved": "2",
+      "dhisID": "CYQEkP3xvza",
+      "dhisName": "CHRD Taux de létalité en Paludisme grave et compliqué",
+      "groupCode": "G6",
+      "name": "Letalite Palu grave et complique",
+      "notInTrack": "5",
+      "target": "0",
+      "type": "indicator"
+    },
+    {
+      "achieved": "2",
+      "dhisID": "qOcDyeEy6iG",
+      "dhisName": "CHRD Taux de létalité spécifique du paludisme en milieu hospitalier",
+      "groupCode": "G6",
+      "name": "Letalite paludisme Hospitaliere",
+      "notInTrack": "5",
+      "target": "0",
+      "type": "indicator"
+    }
+  ],
+  "orgUnitLevel": [
+    {
+      "chw": 3,
+      "district": 3,
+      "facility": 3,
+      "level1": 1,
+      "level2": 2,
+      "level3": 3,
+      "level4": 3,
+      "level5": 3,
+      "level6": 3,
+      "region": 3
+    }
+  ]
+}
